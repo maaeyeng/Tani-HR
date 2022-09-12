@@ -26,5 +26,6 @@ Route::resource('/shippers', App\Http\Controllers\ShipperController::class);
 // Process System
 
 Route::resource('/orders', App\Http\Controllers\OrderController::class);
+Route::resource('/plannings',App\Http\Controllers\PlanningController::class);
 
 
