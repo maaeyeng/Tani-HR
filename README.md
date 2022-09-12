@@ -1,7 +1,11 @@
 # Tani-HR
 
-## user
-1. HR Admin
-2. Super Admin
+## Component of ERP
+1. Employee
+2. Order
 3. Employee 
 4. Mangement
+5. Customer
+6. Supplier
+7. Shipper
+8. Product
